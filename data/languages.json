@@ -1,0 +1,1174 @@
+{
+  "source": "https://index-translate.bilibili.com/?p=/site/langs.js",
+  "bobSource": "https://bobtranslate.com/plugin/addition/language.html",
+  "retrievedAt": "2026-10-06",
+  "advertisedLanguages": 150,
+  "modelLanguages": {
+    "en": "英语",
+    "zh": "中文",
+    "de": "德语",
+    "fr": "法语",
+    "es": "西班牙语",
+    "ja": "日语",
+    "ko": "韩语",
+    "pt": "葡萄牙语",
+    "ru": "俄语",
+    "ar": "阿拉伯语",
+    "it": "意大利语",
+    "nl": "荷兰语",
+    "pl": "波兰语",
+    "ro": "罗马尼亚语",
+    "sv": "瑞典语",
+    "tr": "土耳其语",
+    "hi": "印地语",
+    "vi": "越南语",
+    "th": "泰语",
+    "id": "印尼语",
+    "ms": "马来语",
+    "fil": "菲律宾语",
+    "eng_Latn": "英语",
+    "zho_Hans": "中文",
+    "ukr_Cyrl": "乌克兰语",
+    "fas_Arab": "波斯语",
+    "ces_Latn": "捷克语",
+    "ell_Grek": "希腊语",
+    "dan_Latn": "丹麦语",
+    "hun_Latn": "匈牙利语",
+    "fin_Latn": "芬兰语",
+    "nob_Latn": "书面挪威语",
+    "slk_Latn": "斯洛伐克语",
+    "bul_Cyrl": "保加利亚语",
+    "bos_Latn": "波斯尼亚语",
+    "cat_Latn": "加泰罗尼亚语",
+    "ben_Beng": "孟加拉语",
+    "heb_Hebr": "希伯来语",
+    "lit_Latn": "立陶宛语",
+    "slv_Latn": "斯洛文尼亚语",
+    "ekk_Latn": "爱沙尼亚语",
+    "als_Latn": "阿尔巴尼亚语",
+    "lvs_Latn": "拉脱维亚语",
+    "azj_Latn": "阿塞拜疆语",
+    "hrv_Latn": "克罗地亚语",
+    "tam_Taml": "泰米尔语",
+    "npi_Deva": "尼泊尔语",
+    "urd_Arab": "乌尔都语",
+    "mkd_Cyrl": "马其顿语",
+    "srp_Cyrl": "塞尔维亚语（西里尔）",
+    "mar_Deva": "马拉地语",
+    "kat_Geor": "格鲁吉亚语",
+    "mal_Mlym": "马拉雅拉姆语",
+    "kaz_Cyrl": "哈萨克语",
+    "isl_Latn": "冰岛语",
+    "glg_Latn": "加利西亚语",
+    "kan_Knda": "卡纳达语",
+    "ary_Arab": "摩洛哥阿拉伯语",
+    "guj_Gujr": "古吉拉特语",
+    "bel_Cyrl": "白俄罗斯语",
+    "afr_Latn": "南非荷兰语",
+    "hye_Armn": "亚美尼亚语",
+    "khk_Cyrl": "蒙古语",
+    "khm_Khmr": "高棉语",
+    "eus_Latn": "巴斯克语",
+    "mya_Mymr": "缅甸语",
+    "lat_Latn": "拉丁语",
+    "uzn_Cyrl": "乌兹别克语（西里尔）",
+    "tel_Telu": "泰卢固语",
+    "ory_Orya": "奥里亚语",
+    "nno_Latn": "新挪威语",
+    "uzn_Latn": "乌兹别克语",
+    "swh_Latn": "斯瓦希里语",
+    "sin_Sinh": "僧伽罗语",
+    "kir_Cyrl": "吉尔吉斯语",
+    "som_Latn": "索马里语",
+    "pan_Guru": "旁遮普语",
+    "arz_Arab": "埃及阿拉伯语",
+    "cym_Latn": "威尔士语",
+    "nrm_Latn": "诺曼语",
+    "pbt_Arab": "普什图语",
+    "gle_Latn": "爱尔兰语",
+    "srp_Latn": "塞尔维亚语（拉丁）",
+    "hau_Latn": "豪萨语",
+    "ckb_Arab": "中库尔德语",
+    "mlt_Latn": "马耳他语",
+    "yue_Hani": "粤语",
+    "tgk_Cyrl": "塔吉克语",
+    "kmr_Latn": "北库尔德语",
+    "bew_Latn": "贝塔维语",
+    "amh_Ethi": "阿姆哈拉语",
+    "lao_Laoo": "老挝语",
+    "ltz_Latn": "卢森堡语",
+    "fry_Latn": "弗里西语",
+    "div_Thaa": "迪维希语",
+    "epo_Latn": "世界语",
+    "kin_Latn": "卢旺达语",
+    "ars_Arab": "内志阿拉伯语",
+    "fao_Latn": "法罗语",
+    "plt_Latn": "马达加斯加语",
+    "asm_Beng": "阿萨姆语",
+    "snd_Arab": "信德语",
+    "xho_Latn": "科萨语",
+    "tuk_Latn": "土库曼语",
+    "hat_Latn": "海地克里奥尔语",
+    "gla_Latn": "苏格兰盖尔语",
+    "ceb_Latn": "宿务语",
+    "ydd_Hebr": "意第绪语",
+    "jav_Latn": "爪哇语",
+    "bak_Cyrl": "巴什基尔语",
+    "pap_Latn": "帕皮阿门托语",
+    "mri_Latn": "毛利语",
+    "uig_Arab": "维吾尔语",
+    "tat_Cyrl": "鞑靼语",
+    "bod_Tibt": "藏语",
+    "mww_Latn": "白苗语",
+    "hyw_Armn": "西亚美尼亚语",
+    "yor_Latn": "约鲁巴语",
+    "zul_Latn": "祖鲁语",
+    "sdh_Arab": "南库尔德语",
+    "smo_Latn": "萨摩亚语",
+    "cos_Latn": "科西嘉语",
+    "hif_Latn": "斐济印地语",
+    "sun_Latn": "巽他语",
+    "nya_Latn": "齐切瓦语",
+    "ibo_Latn": "伊博语",
+    "haw_Latn": "夏威夷语",
+    "sot_Latn": "塞索托语",
+    "lus_Latn": "米佐语",
+    "sna_Latn": "绍纳语",
+    "chv_Cyrl": "楚瓦什语",
+    "azb_Arab": "南阿塞拜疆语",
+    "roh_Latn": "罗曼什语",
+    "run_Latn": "基隆迪语",
+    "hin_Latn": "印地语（拉丁）",
+    "sah_Cyrl": "雅库特语",
+    "tir_Ethi": "提格利尼亚语",
+    "ast_Latn": "阿斯图里亚斯语",
+    "oci_Latn": "奥克语",
+    "cnh_Latn": "钦语（哈卡）",
+    "sme_Latn": "北萨米语",
+    "nds_Latn": "低地德语",
+    "oss_Cyrl": "奥塞梯语",
+    "urd_Latn": "乌尔都语（拉丁）",
+    "gsw_Latn": "瑞士德语",
+    "anp_Deva": "昂加语",
+    "apc_Arab": "黎凡特阿拉伯语",
+    "gaz_Latn": "奥罗莫语",
+    "nap_Latn": "那不勒斯语",
+    "hsb_Latn": "上索布语",
+    "hil_Latn": "希利盖农语",
+    "kal_Latn": "格陵兰语",
+    "pes_Arab": "波斯语",
+    "yue_Hant": "粤语"
+  },
+  "bobLanguages": {
+    "en": {
+      "modelCode": "en",
+      "name": "英语"
+    },
+    "zh-Hans": {
+      "modelCode": "zh",
+      "name": "简体中文"
+    },
+    "zh-Hant": {
+      "modelCode": "zh",
+      "name": "繁体中文"
+    },
+    "de": {
+      "modelCode": "de",
+      "name": "德语"
+    },
+    "fr": {
+      "modelCode": "fr",
+      "name": "法语"
+    },
+    "es": {
+      "modelCode": "es",
+      "name": "西班牙语"
+    },
+    "ja": {
+      "modelCode": "ja",
+      "name": "日语"
+    },
+    "ko": {
+      "modelCode": "ko",
+      "name": "韩语"
+    },
+    "pt": {
+      "modelCode": "pt",
+      "name": "葡萄牙语"
+    },
+    "ru": {
+      "modelCode": "ru",
+      "name": "俄语"
+    },
+    "ar": {
+      "modelCode": "ar",
+      "name": "阿拉伯语"
+    },
+    "it": {
+      "modelCode": "it",
+      "name": "意大利语"
+    },
+    "nl": {
+      "modelCode": "nl",
+      "name": "荷兰语"
+    },
+    "pl": {
+      "modelCode": "pl",
+      "name": "波兰语"
+    },
+    "ro": {
+      "modelCode": "ro",
+      "name": "罗马尼亚语"
+    },
+    "sv": {
+      "modelCode": "sv",
+      "name": "瑞典语"
+    },
+    "tr": {
+      "modelCode": "tr",
+      "name": "土耳其语"
+    },
+    "hi": {
+      "modelCode": "hi",
+      "name": "印地语"
+    },
+    "vi": {
+      "modelCode": "vi",
+      "name": "越南语"
+    },
+    "th": {
+      "modelCode": "th",
+      "name": "泰语"
+    },
+    "id": {
+      "modelCode": "id",
+      "name": "印尼语"
+    },
+    "ms": {
+      "modelCode": "ms",
+      "name": "马来语"
+    },
+    "fil": {
+      "modelCode": "fil",
+      "name": "菲律宾语"
+    },
+    "uk": {
+      "modelCode": "ukr_Cyrl",
+      "name": "乌克兰语"
+    },
+    "fa": {
+      "modelCode": "fas_Arab",
+      "name": "波斯语"
+    },
+    "cs": {
+      "modelCode": "ces_Latn",
+      "name": "捷克语"
+    },
+    "el": {
+      "modelCode": "ell_Grek",
+      "name": "希腊语"
+    },
+    "da": {
+      "modelCode": "dan_Latn",
+      "name": "丹麦语"
+    },
+    "hu": {
+      "modelCode": "hun_Latn",
+      "name": "匈牙利语"
+    },
+    "fi": {
+      "modelCode": "fin_Latn",
+      "name": "芬兰语"
+    },
+    "nb": {
+      "modelCode": "nob_Latn",
+      "name": "书面挪威语"
+    },
+    "sk": {
+      "modelCode": "slk_Latn",
+      "name": "斯洛伐克语"
+    },
+    "bg": {
+      "modelCode": "bul_Cyrl",
+      "name": "保加利亚语"
+    },
+    "bs": {
+      "modelCode": "bos_Latn",
+      "name": "波斯尼亚语"
+    },
+    "ca": {
+      "modelCode": "cat_Latn",
+      "name": "加泰罗尼亚语"
+    },
+    "bn": {
+      "modelCode": "ben_Beng",
+      "name": "孟加拉语"
+    },
+    "he": {
+      "modelCode": "heb_Hebr",
+      "name": "希伯来语"
+    },
+    "lt": {
+      "modelCode": "lit_Latn",
+      "name": "立陶宛语"
+    },
+    "sl": {
+      "modelCode": "slv_Latn",
+      "name": "斯洛文尼亚语"
+    },
+    "et": {
+      "modelCode": "ekk_Latn",
+      "name": "爱沙尼亚语"
+    },
+    "sq": {
+      "modelCode": "als_Latn",
+      "name": "阿尔巴尼亚语"
+    },
+    "lv": {
+      "modelCode": "lvs_Latn",
+      "name": "拉脱维亚语"
+    },
+    "az": {
+      "modelCode": "azj_Latn",
+      "name": "阿塞拜疆语"
+    },
+    "hr": {
+      "modelCode": "hrv_Latn",
+      "name": "克罗地亚语"
+    },
+    "ta": {
+      "modelCode": "tam_Taml",
+      "name": "泰米尔语"
+    },
+    "ne": {
+      "modelCode": "npi_Deva",
+      "name": "尼泊尔语"
+    },
+    "ur": {
+      "modelCode": "urd_Arab",
+      "name": "乌尔都语"
+    },
+    "mk": {
+      "modelCode": "mkd_Cyrl",
+      "name": "马其顿语"
+    },
+    "sr-Cyrl": {
+      "modelCode": "srp_Cyrl",
+      "name": "塞尔维亚语（西里尔）"
+    },
+    "mr": {
+      "modelCode": "mar_Deva",
+      "name": "马拉地语"
+    },
+    "ka": {
+      "modelCode": "kat_Geor",
+      "name": "格鲁吉亚语"
+    },
+    "ml": {
+      "modelCode": "mal_Mlym",
+      "name": "马拉雅拉姆语"
+    },
+    "kk": {
+      "modelCode": "kaz_Cyrl",
+      "name": "哈萨克语"
+    },
+    "is": {
+      "modelCode": "isl_Latn",
+      "name": "冰岛语"
+    },
+    "gl": {
+      "modelCode": "glg_Latn",
+      "name": "加利西亚语"
+    },
+    "kn": {
+      "modelCode": "kan_Knda",
+      "name": "卡纳达语"
+    },
+    "gu": {
+      "modelCode": "guj_Gujr",
+      "name": "古吉拉特语"
+    },
+    "be": {
+      "modelCode": "bel_Cyrl",
+      "name": "白俄罗斯语"
+    },
+    "af": {
+      "modelCode": "afr_Latn",
+      "name": "南非荷兰语"
+    },
+    "hy": {
+      "modelCode": "hye_Armn",
+      "name": "亚美尼亚语"
+    },
+    "mn": {
+      "modelCode": "khk_Cyrl",
+      "name": "蒙古语"
+    },
+    "km": {
+      "modelCode": "khm_Khmr",
+      "name": "高棉语"
+    },
+    "eu": {
+      "modelCode": "eus_Latn",
+      "name": "巴斯克语"
+    },
+    "my": {
+      "modelCode": "mya_Mymr",
+      "name": "缅甸语"
+    },
+    "la": {
+      "modelCode": "lat_Latn",
+      "name": "拉丁语"
+    },
+    "te": {
+      "modelCode": "tel_Telu",
+      "name": "泰卢固语"
+    },
+    "or": {
+      "modelCode": "ory_Orya",
+      "name": "奥里亚语"
+    },
+    "uz": {
+      "modelCode": "uzn_Latn",
+      "name": "乌兹别克语"
+    },
+    "sw": {
+      "modelCode": "swh_Latn",
+      "name": "斯瓦希里语"
+    },
+    "si": {
+      "modelCode": "sin_Sinh",
+      "name": "僧伽罗语"
+    },
+    "ky": {
+      "modelCode": "kir_Cyrl",
+      "name": "吉尔吉斯语"
+    },
+    "so": {
+      "modelCode": "som_Latn",
+      "name": "索马里语"
+    },
+    "pa": {
+      "modelCode": "pan_Guru",
+      "name": "旁遮普语"
+    },
+    "cy": {
+      "modelCode": "cym_Latn",
+      "name": "威尔士语"
+    },
+    "ps": {
+      "modelCode": "pbt_Arab",
+      "name": "普什图语"
+    },
+    "ga": {
+      "modelCode": "gle_Latn",
+      "name": "爱尔兰语"
+    },
+    "sr-Latn": {
+      "modelCode": "srp_Latn",
+      "name": "塞尔维亚语（拉丁）"
+    },
+    "ha": {
+      "modelCode": "hau_Latn",
+      "name": "豪萨语"
+    },
+    "ckb": {
+      "modelCode": "ckb_Arab",
+      "name": "中库尔德语"
+    },
+    "mt": {
+      "modelCode": "mlt_Latn",
+      "name": "马耳他语"
+    },
+    "yue": {
+      "modelCode": "yue_Hani",
+      "name": "粤语"
+    },
+    "tg": {
+      "modelCode": "tgk_Cyrl",
+      "name": "塔吉克语"
+    },
+    "kmr": {
+      "modelCode": "kmr_Latn",
+      "name": "北库尔德语"
+    },
+    "am": {
+      "modelCode": "amh_Ethi",
+      "name": "阿姆哈拉语"
+    },
+    "lo": {
+      "modelCode": "lao_Laoo",
+      "name": "老挝语"
+    },
+    "lb": {
+      "modelCode": "ltz_Latn",
+      "name": "卢森堡语"
+    },
+    "fy": {
+      "modelCode": "fry_Latn",
+      "name": "弗里西语"
+    },
+    "dv": {
+      "modelCode": "div_Thaa",
+      "name": "迪维希语"
+    },
+    "eo": {
+      "modelCode": "epo_Latn",
+      "name": "世界语"
+    },
+    "rw": {
+      "modelCode": "kin_Latn",
+      "name": "卢旺达语"
+    },
+    "fo": {
+      "modelCode": "fao_Latn",
+      "name": "法罗语"
+    },
+    "mg": {
+      "modelCode": "plt_Latn",
+      "name": "马达加斯加语"
+    },
+    "as": {
+      "modelCode": "asm_Beng",
+      "name": "阿萨姆语"
+    },
+    "sd": {
+      "modelCode": "snd_Arab",
+      "name": "信德语"
+    },
+    "xh": {
+      "modelCode": "xho_Latn",
+      "name": "科萨语"
+    },
+    "tk": {
+      "modelCode": "tuk_Latn",
+      "name": "土库曼语"
+    },
+    "ht": {
+      "modelCode": "hat_Latn",
+      "name": "海地克里奥尔语"
+    },
+    "gd": {
+      "modelCode": "gla_Latn",
+      "name": "苏格兰盖尔语"
+    },
+    "ceb": {
+      "modelCode": "ceb_Latn",
+      "name": "宿务语"
+    },
+    "jv": {
+      "modelCode": "jav_Latn",
+      "name": "爪哇语"
+    },
+    "ba": {
+      "modelCode": "bak_Cyrl",
+      "name": "巴什基尔语"
+    },
+    "pap": {
+      "modelCode": "pap_Latn",
+      "name": "帕皮阿门托语"
+    },
+    "mi": {
+      "modelCode": "mri_Latn",
+      "name": "毛利语"
+    },
+    "ug": {
+      "modelCode": "uig_Arab",
+      "name": "维吾尔语"
+    },
+    "tt": {
+      "modelCode": "tat_Cyrl",
+      "name": "鞑靼语"
+    },
+    "bo": {
+      "modelCode": "bod_Tibt",
+      "name": "藏语"
+    },
+    "mww": {
+      "modelCode": "mww_Latn",
+      "name": "白苗语"
+    },
+    "yo": {
+      "modelCode": "yor_Latn",
+      "name": "约鲁巴语"
+    },
+    "zu": {
+      "modelCode": "zul_Latn",
+      "name": "祖鲁语"
+    },
+    "sm": {
+      "modelCode": "smo_Latn",
+      "name": "萨摩亚语"
+    },
+    "co": {
+      "modelCode": "cos_Latn",
+      "name": "科西嘉语"
+    },
+    "su": {
+      "modelCode": "sun_Latn",
+      "name": "巽他语"
+    },
+    "ny": {
+      "modelCode": "nya_Latn",
+      "name": "齐切瓦语"
+    },
+    "ig": {
+      "modelCode": "ibo_Latn",
+      "name": "伊博语"
+    },
+    "haw": {
+      "modelCode": "haw_Latn",
+      "name": "夏威夷语"
+    },
+    "st": {
+      "modelCode": "sot_Latn",
+      "name": "塞索托语"
+    },
+    "sn": {
+      "modelCode": "sna_Latn",
+      "name": "绍纳语"
+    },
+    "cv": {
+      "modelCode": "chv_Cyrl",
+      "name": "楚瓦什语"
+    },
+    "azb": {
+      "modelCode": "azb_Arab",
+      "name": "南阿塞拜疆语"
+    },
+    "rm": {
+      "modelCode": "roh_Latn",
+      "name": "罗曼什语"
+    },
+    "rn": {
+      "modelCode": "run_Latn",
+      "name": "基隆迪语"
+    },
+    "ti": {
+      "modelCode": "tir_Ethi",
+      "name": "提格利尼亚语"
+    },
+    "ast": {
+      "modelCode": "ast_Latn",
+      "name": "阿斯图里亚斯语"
+    },
+    "oc": {
+      "modelCode": "oci_Latn",
+      "name": "奥克语"
+    },
+    "cnh": {
+      "modelCode": "cnh_Latn",
+      "name": "钦语（哈卡）"
+    },
+    "se": {
+      "modelCode": "sme_Latn",
+      "name": "北萨米语"
+    },
+    "nds": {
+      "modelCode": "nds_Latn",
+      "name": "低地德语"
+    },
+    "os": {
+      "modelCode": "oss_Cyrl",
+      "name": "奥塞梯语"
+    },
+    "om": {
+      "modelCode": "gaz_Latn",
+      "name": "奥罗莫语"
+    },
+    "hsb": {
+      "modelCode": "hsb_Latn",
+      "name": "上索布语"
+    },
+    "hil": {
+      "modelCode": "hil_Latn",
+      "name": "希利盖农语"
+    },
+    "kl": {
+      "modelCode": "kal_Latn",
+      "name": "格陵兰语"
+    },
+    "tl": {
+      "modelCode": "fil",
+      "name": "菲律宾语"
+    },
+    "jw": {
+      "modelCode": "jav_Latn",
+      "name": "爪哇语"
+    },
+    "jy": {
+      "modelCode": "kat_Geor",
+      "name": "格鲁吉亚语"
+    },
+    "no": {
+      "modelCode": "nob_Latn",
+      "name": "书面挪威语"
+    },
+    "sr": {
+      "modelCode": "srp_Cyrl",
+      "name": "塞尔维亚语（西里尔）"
+    },
+    "hmn": {
+      "modelCode": "mww_Latn",
+      "name": "白苗语"
+    },
+    "yi": {
+      "modelCode": "ydd_Hebr",
+      "name": "意第绪语"
+    }
+  },
+  "unmappedModelLanguages": [
+    {
+      "modelCode": "ary_Arab",
+      "name": "摩洛哥阿拉伯语"
+    },
+    {
+      "modelCode": "nno_Latn",
+      "name": "新挪威语"
+    },
+    {
+      "modelCode": "arz_Arab",
+      "name": "埃及阿拉伯语"
+    },
+    {
+      "modelCode": "nrm_Latn",
+      "name": "诺曼语"
+    },
+    {
+      "modelCode": "bew_Latn",
+      "name": "贝塔维语"
+    },
+    {
+      "modelCode": "ars_Arab",
+      "name": "内志阿拉伯语"
+    },
+    {
+      "modelCode": "hyw_Armn",
+      "name": "西亚美尼亚语"
+    },
+    {
+      "modelCode": "sdh_Arab",
+      "name": "南库尔德语"
+    },
+    {
+      "modelCode": "hif_Latn",
+      "name": "斐济印地语"
+    },
+    {
+      "modelCode": "lus_Latn",
+      "name": "米佐语"
+    },
+    {
+      "modelCode": "sah_Cyrl",
+      "name": "雅库特语"
+    },
+    {
+      "modelCode": "gsw_Latn",
+      "name": "瑞士德语"
+    },
+    {
+      "modelCode": "anp_Deva",
+      "name": "昂加语"
+    },
+    {
+      "modelCode": "apc_Arab",
+      "name": "黎凡特阿拉伯语"
+    },
+    {
+      "modelCode": "nap_Latn",
+      "name": "那不勒斯语"
+    }
+  ],
+  "bobDocumentedCodes": [
+    "auto",
+    "zh-Hans",
+    "zh-Hant",
+    "yue",
+    "wyw",
+    "pysx",
+    "en",
+    "ja",
+    "ko",
+    "fr",
+    "de",
+    "es",
+    "it",
+    "ru",
+    "pt",
+    "pt-pt",
+    "pt-br",
+    "nl",
+    "pl",
+    "ar",
+    "ab",
+    "ace",
+    "acr",
+    "acu",
+    "adh",
+    "af",
+    "agr",
+    "ak",
+    "ake",
+    "am",
+    "amk",
+    "amu",
+    "an",
+    "any",
+    "as",
+    "ast",
+    "ata",
+    "ay",
+    "az",
+    "azb",
+    "ba",
+    "bal",
+    "bam",
+    "bba",
+    "bch",
+    "bdh",
+    "bdu",
+    "be",
+    "bem",
+    "ber",
+    "bfa",
+    "bg",
+    "bho",
+    "bi",
+    "bm",
+    "bn",
+    "bno",
+    "bnp",
+    "bo",
+    "bqj",
+    "bqp",
+    "br",
+    "bs",
+    "bsn",
+    "bus",
+    "byn",
+    "byr",
+    "ca",
+    "cak",
+    "cas",
+    "cbk",
+    "cbl",
+    "ccp",
+    "cdf",
+    "ceb",
+    "cfm",
+    "ch",
+    "che",
+    "chm",
+    "chq",
+    "chr",
+    "cjp",
+    "ckb",
+    "cki",
+    "cnh",
+    "cni",
+    "cnr",
+    "co",
+    "cop",
+    "cpb",
+    "crh",
+    "crs",
+    "cs",
+    "csb",
+    "ctd",
+    "cv",
+    "cy",
+    "czt",
+    "da",
+    "dik",
+    "dje",
+    "djk",
+    "dop",
+    "dtp",
+    "duo",
+    "dv",
+    "dyu",
+    "dz",
+    "ee",
+    "el",
+    "enx",
+    "eo",
+    "et",
+    "eu",
+    "fa",
+    "fi",
+    "fil",
+    "fj",
+    "fo",
+    "fur",
+    "fuv",
+    "fvr",
+    "fy",
+    "ga",
+    "gbi",
+    "gbo",
+    "gd",
+    "gil",
+    "gl",
+    "gn",
+    "gnw",
+    "gof",
+    "gos",
+    "gu",
+    "gub",
+    "gur",
+    "gv",
+    "ha",
+    "haw",
+    "hbs",
+    "he",
+    "hi",
+    "hil",
+    "hlb",
+    "hmn",
+    "hmo",
+    "hr",
+    "hsb",
+    "ht",
+    "hu",
+    "hui",
+    "hup",
+    "huv",
+    "hwc",
+    "hy",
+    "ia",
+    "iba",
+    "id",
+    "ie",
+    "ifa",
+    "ifb",
+    "ify",
+    "ig",
+    "ikk",
+    "ilo",
+    "inh",
+    "io",
+    "iou",
+    "is",
+    "iu",
+    "izz",
+    "jac",
+    "jae",
+    "jbo",
+    "jiv",
+    "jmc",
+    "jv",
+    "jw",
+    "jy",
+    "ka",
+    "kab",
+    "kac",
+    "kbh",
+    "kbo",
+    "kdx",
+    "kek",
+    "keo",
+    "kg",
+    "kha",
+    "ki",
+    "kj",
+    "kk",
+    "kl",
+    "kle",
+    "km",
+    "kmr",
+    "kn",
+    "knj",
+    "kpg",
+    "kr",
+    "krs",
+    "ks",
+    "ksd",
+    "ku",
+    "kw",
+    "ky",
+    "kyu",
+    "la",
+    "lb",
+    "lcm",
+    "lcp",
+    "lfn",
+    "lg",
+    "li",
+    "ln",
+    "lnd",
+    "lo",
+    "lsi",
+    "lt",
+    "ltg",
+    "lu",
+    "lv",
+    "mad",
+    "mah",
+    "mai",
+    "mam",
+    "map",
+    "mbb",
+    "mdy",
+    "me",
+    "meu",
+    "mfe",
+    "mg",
+    "mh",
+    "mhr",
+    "mi",
+    "mk",
+    "ml",
+    "mn",
+    "mni",
+    "mos",
+    "mps",
+    "mr",
+    "mrj",
+    "mrw",
+    "ms",
+    "mt",
+    "mus",
+    "muv",
+    "mww",
+    "my",
+    "nb",
+    "nch",
+    "nd",
+    "nds",
+    "ne",
+    "ng",
+    "ngl",
+    "ngu",
+    "nhg",
+    "niu",
+    "no",
+    "nop",
+    "nr",
+    "nso",
+    "ntm",
+    "nv",
+    "ny",
+    "nyy",
+    "oc",
+    "oj",
+    "ojb",
+    "om",
+    "ond",
+    "or",
+    "os",
+    "otq",
+    "pa",
+    "pag",
+    "pap",
+    "pck",
+    "pil",
+    "pmn",
+    "poh",
+    "pot",
+    "ppk",
+    "prk",
+    "ps",
+    "pss",
+    "ptu",
+    "qu",
+    "quc",
+    "quh",
+    "quw",
+    "quz",
+    "qxr",
+    "rm",
+    "rmn",
+    "rn",
+    "ro",
+    "rom",
+    "rue",
+    "rug",
+    "rw",
+    "sa",
+    "sco",
+    "sd",
+    "se",
+    "sg",
+    "shi",
+    "shn",
+    "shp",
+    "si",
+    "sid",
+    "sk",
+    "sl",
+    "sm",
+    "sn",
+    "so",
+    "spy",
+    "sq",
+    "sr",
+    "sr-Cyrl",
+    "sr-Latn",
+    "ss",
+    "ssd",
+    "ssx",
+    "st",
+    "su",
+    "sv",
+    "sw",
+    "swp",
+    "syc",
+    "syr",
+    "szl",
+    "ta",
+    "tbz",
+    "te",
+    "teo",
+    "tet",
+    "tex",
+    "tg",
+    "th",
+    "ti",
+    "tig",
+    "tih",
+    "tk",
+    "tl",
+    "tlh",
+    "tmh",
+    "tn",
+    "to",
+    "toi",
+    "tpi",
+    "tpm",
+    "tr",
+    "ts",
+    "tt",
+    "tvl",
+    "tw",
+    "ty",
+    "tyv",
+    "udm",
+    "ug",
+    "uk",
+    "umb",
+    "ur",
+    "usp",
+    "uz",
+    "ve",
+    "vi",
+    "vo",
+    "vun",
+    "wa",
+    "wal",
+    "war",
+    "wlx",
+    "wo",
+    "wrs",
+    "wsk",
+    "xal",
+    "xh",
+    "xsm",
+    "yi",
+    "yo",
+    "yon",
+    "yua",
+    "zu",
+    "zyb",
+    "zza"
+  ]
+}

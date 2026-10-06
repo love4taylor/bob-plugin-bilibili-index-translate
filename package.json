@@ -1,0 +1,24 @@
+{
+  "name": "bob-plugin-bilibili-index-translate",
+  "version": "1.0.4",
+  "private": true,
+  "type": "module",
+  "description": "Bilibili Index-Translate 免费 API 的 Bob 翻译插件",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test tests/*.test.mjs",
+    "check:runtime": "node scripts/check-runtime.mjs",
+    "package": "npm run build && npm run check:runtime && node scripts/package.mjs",
+    "appcast": "node scripts/appcast.mjs",
+    "test:live": "node scripts/live.mjs"
+  },
+  "dependencies": { "eventsource-parser": "3.0.6" },
+  "devDependencies": {
+    "@bob-translate/types": "1.1.0",
+    "esbuild-wasm": "0.28.2",
+    "typescript": "5.9.3"
+  },
+  "engines": { "node": ">=22" }
+}

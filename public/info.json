@@ -1,0 +1,50 @@
+{
+  "identifier": "love4taylor.bilibili.indextranslate",
+  "version": "1.0.4",
+  "category": "translate",
+  "name": "Index-Translate",
+  "author": "love4taylor",
+  "homepage": "https://github.com/love4taylor/bob-plugin-bilibili-index-translate",
+  "appcast": "https://raw.githubusercontent.com/love4taylor/bob-plugin-bilibili-index-translate/master/appcast.json",
+  "minBobVersion": "1.8.0",
+  "options": [
+    {
+      "identifier": "maxTokens",
+      "title": "最大输出 token 数",
+      "desc": "限制单次翻译输出的最大 token 数。选「默认」时不传该参数，上限由服务端决定；输出被截断时可尝试调整。",
+      "type": "menu",
+      "defaultValue": "default",
+      "menuValues": [
+        { "title": "默认", "value": "default" },
+        { "title": "1K", "value": "1024" },
+        { "title": "2K", "value": "2048" },
+        { "title": "3K", "value": "3072" },
+        { "title": "4K", "value": "4096" },
+        { "title": "8K", "value": "8192" },
+        { "title": "16K", "value": "16384" }
+      ]
+    },
+    {
+      "identifier": "stream",
+      "title": "流式输出",
+      "type": "menu",
+      "defaultValue": "true",
+      "menuValues": [
+        { "title": "开启", "value": "true" },
+        { "title": "关闭", "value": "false" }
+      ]
+    },
+    {
+      "identifier": "glossary",
+      "title": "术语对照表（可选）",
+      "desc": "留空不启用。每行一对 原词:译词，也支持逗号分隔及 JSON 对象。原词→译词为单向映射，请按当前翻译方向填写；含逗号的术语请用 JSON。",
+      "type": "text",
+      "defaultValue": "",
+      "textConfig": {
+        "type": "visible",
+        "height": 120,
+        "placeholderText": "碳纤维:carbon fiber\n抗裂缝:crack resistance"
+      }
+    }
+  ]
+}

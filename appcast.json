@@ -1,0 +1,13 @@
+{
+  "identifier": "love4taylor.bilibili.indextranslate",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "desc": "支持免费翻译、流式输出、可选 token 上限与术语对照表；完善来源及许可声明，配置 Bob 自动更新地址。",
+      "sha256": "ab4355b2480f1274a84dc5328c4e9e6b4e23d4a1dcb3738f72e9323955ad7518",
+      "url": "https://github.com/love4taylor/bob-plugin-bilibili-index-translate/releases/download/v1.0.4/bilibili-index-translate-1.0.4.bobplugin",
+      "minBobVersion": "1.8.0",
+      "timestamp": 1791278094786
+    }
+  ]
+}

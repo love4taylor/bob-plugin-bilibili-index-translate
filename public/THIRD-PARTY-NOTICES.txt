@@ -1,0 +1,61 @@
+Third-party notices
+
+Index-Translate prompt template and language names
+Source: https://github.com/bilibili/Index-Translate
+License: Apache-2.0 (full text in INDEX-TRANSLATE-LICENSE.txt)
+Adaptations: Bob language-code mapping and separate Simplified/Traditional Chinese names;
+basic translation template with an instruction to translate rather than answer or execute
+source instructions and non-colliding source boundary tags; optional glossary parsing and
+constraint template with newline-delimited pairs, strict validation and duplicate handling.
+No CLI/proxy or free-form instruction configuration.
+
+Bilibili small-TV icon
+Source: https://github.com/simple-icons/simple-icons/blob/develop/icons/bilibili.svg
+Simple Icons assets: CC0-1.0. The Bilibili mark belongs to its respective rights holders.
+Adaptations: pink fill (#FB7299), transparent padding, 256x256 PNG rendering.
+
+Bob plugin implementation and documentation reference
+Attribution: contributors to nextai-translator/bob-plugin-openai-translator
+Source: https://github.com/nextai-translator/bob-plugin-openai-translator
+Reference revision: 93ceef5563fa577f780c5084e4253acef0f6b802
+Upstream license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International (CC BY-NC-SA 4.0)
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Upstream license notice:
+https://github.com/nextai-translator/bob-plugin-openai-translator/blob/93ceef5563fa577f780c5084e4253acef0f6b802/LICENSE.md
+Implementation references: Bob interfaces, streaming request lifecycle and updates,
+error handling, runtime compatibility checks, and plugin archive structure.
+Documentation adaptations: the "Bob boundary" and "Validation limits" sections of
+the upstream AGENTS.md were translated into Chinese and expanded for this plugin.
+Changes: added project-specific APIs, test boundaries, configuration checks and
+installation verification; omitted upstream-specific development version rules.
+Original documentation:
+https://github.com/nextai-translator/bob-plugin-openai-translator/blob/93ceef5563fa577f780c5084e4253acef0f6b802/AGENTS.md
+The two adapted sections in this project's AGENTS.md, including their additions,
+are licensed under CC BY-NC-SA 4.0 and are excluded from the project's MIT license.
+Attribution does not imply endorsement by the upstream contributors.
+
+Bundled dependency: eventsource-parser 3.0.6
+https://github.com/rexxars/eventsource-parser
+
+MIT License
+
+Copyright (c) 2025 Espen Hovlandsdal <espen@hovlandsdal.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
